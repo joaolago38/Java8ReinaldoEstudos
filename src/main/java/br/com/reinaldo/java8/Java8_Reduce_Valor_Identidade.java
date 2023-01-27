@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-public class Java8_Reduce_Math_min {
+public class Java8_Reduce_Valor_Identidade {
     public static void main(String [] args) {
         String s = "Inscreva-se no canal e compartilhe este video";
         String [] split  =  s.split("");
